@@ -1,4 +1,8 @@
-package com.adaptivescheduler;
+package com.adaptivescheduler.activities;
+
+import com.adaptivescheduler.R;
+import com.adaptivescheduler.R.layout;
+import com.adaptivescheduler.R.menu;
 
 import android.os.Bundle;
 import android.app.Activity;
